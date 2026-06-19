@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4500&pause=700&color=0751F7&background=E2F6D700&center=true&width=800&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+MERN+StackDeveloper;Currently+I+am+Learning+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4500&pause=700&color=0751F7&background=E2F6D700&center=true&width=800&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+MERN+Stack+Developer;Currently+I+am+Doing+BS+Data+Science" alt="Typing SVG" />
 </a>
 
 # 💫 About Me:
