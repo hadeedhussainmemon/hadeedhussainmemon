@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4500&pause=700&color=0751F7&background=E2F6D700&center=true&width=800&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+Front+End+Developer;Currently+I+am+Learning+Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4500&pause=700&color=0751F7&background=E2F6D700&center=true&width=800&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+MERN+StackDeveloper;Currently+I+am+Learning+Data+Science" alt="Typing SVG" />
 </a>
 
 # 💫 About Me:
 👋 Hi, I’m Hadeed Hussain,<br>
 👀 I’m interested in Programming,<br>
-🌱 I've Learned HTML, CSS, TypeScript and JavaScript<br>
-💞️ Currently I am Doing Modern Web and App Development at SMIT<br>
+🌱 I've Learned Full / Mern Stack Development <br>
+💞️ Currently I am CTO of Technose Digital<br>
 📫 You Can Contact Me On : <a href="https://wa.link/8nr1tv">+923322965814</a><br>
 😄 Pronouns: Geek  
 
