@@ -8,7 +8,8 @@
   <a href="https://github.com/hadeedhussainmemon"><code>@hadeedhussainmemon</code></a>
 </div>
 <br/>
-```yaml
+<div align="center">
+<pre align="left" style="font-family: monospace; background-color: #0d1117; color: #c9d1d9; padding: 15px; border-radius: 8px; border: 1px solid #30363d; width: 100%; box-sizing: border-box; line-height: 1.5;">
 - hadeedhussainmemon@github ---------------------------
 . Role:        MERN Stack Developer & CTO @ Technose Digital
 . Education:   BS Data Science
@@ -24,26 +25,8 @@
 - GitHub Stats ----------------------------------------
 . Focus:       Full Stack Web Development, MERN
 . Commits:     Top Contributor
-```
+</pre>
+</div>
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">[ TOP LANGUAGES ]</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadeedhussainmemon&theme=highcontrast&hide_border=true&layout=compact&bg_color=0a0a0a&text_color=a3a3a3&title_color=00f0ff" alt="Top Languages" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">[ TECHNOLOGIES & SKILLS ]</h3>
-      <div align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,react,nodejs&perline=4" alt="Skills" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=mongo,express,pr,ps,ai,git,github,vercel&perline=4" alt="Skills" />
-      </div>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <h3 align="center">[ OVERALL GITHUB STATS ]</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hadeedhussainmemon&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0a0a&text_color=a3a3a3&title_color=00f0ff&icon_color=00f0ff" alt="Stats" />
